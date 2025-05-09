@@ -1,0 +1,12 @@
+.todo-card {
+  background-color: rgb(240, 240, 240);
+}
+
+.empty-view {
+  background-image: url("./../image/mickey-mouse-icon-3.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:500px;
+  opacity: 30%;
+}
